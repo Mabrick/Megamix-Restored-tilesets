@@ -1,0 +1,15 @@
+Update 4
+
+Added MM10 Wily 2 missing tiles.
+
+Redesigned the MM10 Wily 5 tileset.
+
+Fixed again MM10 Wily 1 rain placement.
+
+Bright man has two additional frames. Those frames will hide the bg objects that flash. (Use the animation codes to see.)
+
+An early gift for my contribution to the Megamix engine, the MM10 challenge tileset!
+
+
+Hello it's Mabrick. I haven't updated this in a loooong while since really I thought I was done, until recently I decided to polish a few tilesets in wake of events right now.
+So enjoy these, as a self reward for doing this contribution, I've released the MM10 Challenge tileset!
