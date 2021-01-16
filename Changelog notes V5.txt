@@ -1,0 +1,36 @@
+Update v5
+
+Overhaul to some tilesets:
+
+*Merged both galaxy man tileset and bg together. They can be animated easily as well.
+
+*Also merged MM9Wily4 lights with main tileset.
+
+*Corrected spike colours on MM9Wily4.
+
+*Combined Toadwater with main toadman tileset.
+
+*Snakeclouds is now in snake man's tileset.
+
+*Cossack clouds transparency
+
+*Tornado clouds much more compact
+
+*Fixed up Tornado man's rain.
+
+*MM5Wily3 has broken teleporters
+
+*Gravity switches have been added
+
+*Compact MM9 Grav lifts. Also added a gravlift bg.
+
+*Grav lifts have been readded into the MM9Wily3 main tileset (Although recommended to animate seperately).
+
+*Added missing tile in Plugman.
+
+*Reworked diveman tileset
+
+*MM4 Wily 3 teleporter glass added
+
+
+Some older tilesets are now in legacy folder meaning that they are discontinued and will not be avalaible for the next update. Usually there for archive purposes or preferences.
