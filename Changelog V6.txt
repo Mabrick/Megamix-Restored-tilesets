@@ -1,0 +1,25 @@
+Fixes in MM3:
+
+*Remade Gemini man tileset. Now includes its actual bg, the doc tilesets and its unused planet sprite. Doc tiles are fused with the main.
+
+*I have fused together the doc tilesets of needle and shadow as well as adding missing tiles.
+
+*Added unused Magnet doc tiles (some were manually recreated in which accuracy not 100%).
+
+MM4:
+
+*Added more compact Cossack snow. This has been merged with the other Cossack 1 and 2 tiles (Its completely optional to install those tiles) in which you can simply replace over the curent ones.
+
+*Ring man boss door added.
+
+Other:
+
+*Made wily teleporters from 4, 5, 6, 9 transparent.
+
+*MM5 Wily 4 cage and broken tiles added.
+
+*Quickman alt (lit up) added.
+
+*Elec man boss walls added and other minor additions.
+
+*MM10 wily sheep tiles added in Wily 1 MM10.
